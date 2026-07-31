@@ -1,7 +1,7 @@
 {
   "name": "amigoscode",
   "version": "1.0.0",
-  "description": "Amigoscode content tools — branded explainer videos, educational infographics, LinkedIn carousels, X-style quote cards, and an autonomous LinkedIn poster.",
+  "description": "Amigoscode content tools \u2014 branded explainer videos, animated backend flow diagrams, educational infographics, LinkedIn carousels, X-style quote cards, and an autonomous LinkedIn poster.",
   "author": {
     "name": "Amigoscode",
     "url": "https://amigoscode.com"
@@ -23,6 +23,10 @@
     "hyperframes",
     "headshots",
     "profile-picture",
-    "portrait"
+    "portrait",
+    "flows-diagram",
+    "diagram",
+    "animation",
+    "backend"
   ]
 }

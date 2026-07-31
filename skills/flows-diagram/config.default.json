@@ -1,0 +1,11 @@
+{
+  "workspaceDir": "~/amigoscode-skills/flows",
+  "voiceId": "BtWabtumIemAotTjP5sk",
+  "voiceModel": "eleven_multilingual_v2",
+  "voiceSettings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.0,
+    "use_speaker_boost": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flows-diagram",
+  "version": "1.0.0",
+  "description": "Animated Amigoscode backend flow diagrams: square MP4, looping GIF, and a branded reel with voiceover and captions.",
+  "private": true,
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^24.43.1"
+  }
+}

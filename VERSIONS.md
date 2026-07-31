@@ -11,8 +11,12 @@ Current versions of all skills. Agents can compare against local versions to che
 | linkedin-poster | 1.0.0 | 2026-06-23 | Fully autonomous LinkedIn poster that publishes immediately or schedules text, carousel, or image posts via Playwright. |
 | nanobanana | 1.0.0 | 2026-06-27 | Generate and edit images with Google's Gemini 3.1 Flash Image model: text-to-image, single-image edits, style transfer, and multi-image compositing. |
 | headshots | 1.1.0 | 2026-06-28 | Generate polished LinkedIn-style profile-picture variations from one reference photo, preserving the person's identity. 11 options including a restore-only mode, picked via checkbox; fans out one subagent per style. Self-contained Gemini generator. |
+| flows-diagram | 1.0.0 | 2026-07-31 | Animated backend flow diagrams (React/SVG scenes) rendered to a 1440x1440 square MP4, a 960x960 looping GIF, and a 1080x1920 branded reel, plus ElevenLabs voiceover, word-by-word captions, caption.txt, and title.txt. |
 
 ## Recent Changes
+
+### 2026-07-31
+- Added `flows-diagram` skill: animated backend/Java/Spring/database diagrams (square MP4 + looping GIF + branded reel) with voiceover and word-by-word captions
 
 ### 2026-06-28
 - `headshots`: added a `restore` option (enhance/repair the original photo with no restyle), selectable in the checkbox prompt alongside the styled looks

@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Vendored React + Babel, fetched on first render
+.cache/
+
+# Scratch frames / harness
+.work/
+
+# Dependencies
+node_modules
+
+# OS / editor cruft
+.DS_Store
+*.log

@@ -5,7 +5,7 @@
     "url": "https://amigoscode.com"
   },
   "metadata": {
-    "description": "Amigoscode marketplace — content and developer tools for educators and engineers.",
+    "description": "Amigoscode marketplace \u2014 content and developer tools for educators and engineers.",
     "version": "1.0.0",
     "repository": "https://github.com/amigoscode/skills"
   },
@@ -13,7 +13,7 @@
     {
       "name": "amigoscode",
       "source": "./",
-      "description": "Branded explainer videos, educational infographics (HOW X WORKS diagrams), LinkedIn carousels, X-style quote cards, and an autonomous LinkedIn poster."
+      "description": "Branded explainer videos, animated backend flow diagrams, educational infographics (HOW X WORKS diagrams), LinkedIn carousels, X-style quote cards, and an autonomous LinkedIn poster."
     }
   ]
 }
